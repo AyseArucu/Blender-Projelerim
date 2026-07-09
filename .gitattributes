@@ -1,1 +1,9 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+(Bir filter=lfs diff=lfs merge=lfs -text
+kez filter=lfs diff=lfs merge=lfs -text
+yaptıysan filter=lfs diff=lfs merge=lfs -text
+tekrar filter=lfs diff=lfs merge=lfs -text
+yapmana filter=lfs diff=lfs merge=lfs -text
+gerek filter=lfs diff=lfs merge=lfs -text
+yok.) filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
